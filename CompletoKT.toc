@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Completo Key Tracker
+## Notes: Addon to track who's a Mr. Depleto and who's a Mr. Completo
+## Author: Grumpo
+## Version: 1.0
+
+CompletoKTMain.lua
