@@ -1,0 +1,2 @@
+xcopy f:\Projects\CompletoKeyTracker\CompletoKT.toc "f:\World of Warcraft\_retail_\Interface\AddOns\CompletoKT" /y
+xcopy f:\Projects\CompletoKeyTracker\CompletoKTMain.lua "f:\World of Warcraft\_retail_\Interface\AddOns\CompletoKT" /y
